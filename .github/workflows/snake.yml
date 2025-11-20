@@ -19,6 +19,11 @@ jobs:
           github_user_name: sineth-hasintha
           outputs: |
             dist/github-contribution-grid-snake.svg
+          theme: dark
+          color: "#ff0000"      # Snake color
+          bg_color: "#111"   # Background color
+          border: "#333"     # Grid borders
+
 
       - name: Upload to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
