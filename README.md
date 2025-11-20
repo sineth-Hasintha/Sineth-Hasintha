@@ -59,5 +59,6 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/sineth-hasintha/sineth-hasintha/blob/output/github-contribution-grid-snake.svg" alt="snake animation">
+  <img src="https://raw.githubusercontent.com/sineth-hasintha/sineth-hasintha/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
+
